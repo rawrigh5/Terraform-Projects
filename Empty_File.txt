@@ -1,0 +1,1 @@
+This is a empty Terraform file for git repo initialization
